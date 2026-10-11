@@ -3,8 +3,7 @@
 ### Project Overview
 EcomLens is a business intelligence project designed to present retail performance through interactive dashboards and visual reports.
 The dashboard provides an executive summary of key performance indicators and a trend analysis view for exploring historical performance. Users can examine sales by category, region, country, and customer segment, as well as identify leading products and customers.
-Dashboard period: 2015–2018
-
+- Dashboard period: 2015–2018
 ---
 
 ### Table of Contents
@@ -35,7 +34,6 @@ This project transforms retail sales data into an interactive visual dashboard t
 - Explore historical sales, profit, and order trends.
 - Present business performance through clear and interactive visualizations.
 - Evaluate the performance of different product categories and sub-categories.
-
 ---
 ### Dataset Description
 This dataset contains retail sales transaction data for a superstore, covering customer orders, product categories, shipping details, geographical locations, and financial performance. It can be used to analyze sales trends, customer purchasing behavior, product performance, and profitability.
@@ -66,7 +64,6 @@ The dataset includes the following columns:
 ### Tools & Technologies
 - Tableau Desktop
 ---
-
 ### Data Cleaning & Preparation
 The data preparation process should include the following steps, where applicable:
 - Inspect column names, data types, and missing values.
@@ -76,8 +73,8 @@ The data preparation process should include the following steps, where applicabl
 - Verify calculations and year-over-year comparisons.
 - Prepare and save the cleaned dataset.
 - Validate the prepared data against the dashboard metrics.
-
 ---
+
 ### Dashboard Features
 1. Executive Summary
 - Sales, profit, order, and customer KPIs
