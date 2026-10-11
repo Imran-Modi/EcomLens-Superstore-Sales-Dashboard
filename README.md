@@ -107,7 +107,7 @@ The data preparation process should include the following steps
 
 ### Key Findings
 
-### 📈 Sales & Profit Performance
+### Sales & Profit Performance
 - **Total Sales:** `$765.4K`
 - **Total Profit:** `$98.5K`
 - **Total Orders:** `1,214`
@@ -116,18 +116,15 @@ The data preparation process should include the following steps
 - **Profit Growth:** **17.2%** compared with 2016.
 - **Order Growth:** **17.0%** compared with 2016.
 - **Customer Growth:** **11.4%** compared with 2016.
-
-### 🛍️ Product Category & Regional Analysis
+### Product Category & Regional Analysis
 - **Leading Categories:** Technology, Office Supplies, and Furniture.
 - **Top Sales Regions:** Central, North, and South.
 - **Leading Countries:** France, Germany, United Kingdom, Italy, and Spain.
-
-### 🏆 Top-Selling Products by Year
+### Top-Selling Products by Year
 - **2016:** Nokia Smartphone Full Size, Motorola Smartphone Cordless, Canon Wireless Fax.
 - **2017:** KitchenAid Refrigerator Black, Motorola Smartphone Full Size, Smead Locker Blue.
 - **2018:** Apple Smartphone Full Size, Hoover Stove Red, Nokia Smartphone Full Size.
-
-### 👥 Customer Insights
+### Customer Insights
 - **Largest Customer Segment:** Consumer.
 - **Other Key Segments:** Corporate and Home Office.
 - **High-Value Customers:**
@@ -136,28 +133,25 @@ The data preparation process should include the following steps
   - Laurel Beltran — **$8.2K**
   - Delfina Latchford — **$9.6K**
   - Patrick Jones — **$8.0K**
-
-### 📅 Sales Seasonality
+###  Sales Seasonality
 - **Peak Sales Months:** June, August, September, November, and December.
 - **Lower-Performing Months:**
   - **2016:** February, April, and May.
   - **2017:** March, April, and October.
   - **2018:** February, March, and May.
 - **Business Insight:** Use seasonal trends to optimize inventory, plan promotions, and improve sales performance.
-
-### 🚚 Shipping Preferences
+### Shipping Preferences
 - **Standard Class:** 59.87%
 - **Second Class:** 20.47%
 - **First Class:** 14.05%
 - **Same Day:** 5.60%
 **Key Finding:** Standard Class is the most preferred shipping method, accounting for nearly **60%** of shipping preferences.
-
-### 💡 Key Takeaways
-- 📈 **Strong Business Growth:** Sales, profit, and orders increased by approximately **17%** compared with 2016.
-- 🛍️ **Product Performance:** Focus on Technology, Office Supplies, and Furniture.
-- 👥 **Customer Retention:** Develop targeted marketing and loyalty programs for high-value customers.
-- 📅 **Seasonal Planning:** Align inventory and promotional campaigns with peak sales periods.
-- 🚚 **Shipping Optimization:** Evaluate shipping efficiency and identify opportunities to improve delivery performance.
+### Key Takeaways
+- **Strong Business Growth:** Sales, profit, and orders increased by approximately **17%** compared with 2016.
+- **Product Performance:** Focus on Technology, Office Supplies, and Furniture.
+- **Customer Retention:** Develop targeted marketing and loyalty programs for high-value customers.
+- **Seasonal Planning:** Align inventory and promotional campaigns with peak sales periods.
+- **Shipping Optimization:** Evaluate shipping efficiency and identify opportunities to improve delivery performance.
 ---
 ### Business Recommendations
 - **Increase Sales:** Focus on top-performing products, categories, and regions to improve revenue and profitability.
