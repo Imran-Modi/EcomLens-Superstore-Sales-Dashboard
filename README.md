@@ -166,8 +166,31 @@ Customer and product performance analysis
 - 📅 **Seasonal Planning:** Align inventory and promotional campaigns with peak sales periods.
 - 🚚 **Shipping Optimization:** Evaluate shipping efficiency and identify opportunities to improve delivery performance.
 ---
+### Business Recommendations
+- **Increase Sales:** Focus on top-performing products, categories, and regions to improve revenue and profitability.
+- **Improve Customer Retention:** Develop targeted marketing campaigns and loyalty programs for high-value customers.
+- **Optimize Inventory:** Align inventory levels and promotional activities with seasonal sales trends.
+- **Enhance Shipping Efficiency:** Evaluate shipping costs and delivery performance to improve operational efficiency and customer satisfaction.
+---
 
-  
+### Project Structure
+
+```text
+EcomLens/
+│
+├── README.md
+│
+├── screenshots/
+│   ├── Tableau-Dashoard-PG-01.png
+│   ├── Tableau-Dashoard-PG-02.png
+│   └── Tableau-Dashoard-PG-03.png
+│
+├── dataset/
+│   └── Superstore.csv
+│
+└── Tableau-Dashboard.twbx
+
+
 ### Conclusion
 EcomLens demonstrates how retail transaction data can be organized into a business intelligence dashboard for monitoring performance and exploring sales trends.
 The project combines KPI reporting, product and customer analysis, geographic comparisons, and historical trends to support clearer business understanding and make informed strategic decisions.
