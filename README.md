@@ -62,7 +62,7 @@ The dataset includes the following columns:
 ---
 
 ### Tools & Technologies
-- Tableau Desktop
+- Tableau Desktop Public Version 2026.2.0
 ---
 ### Data Cleaning & Preparation
 The data preparation process should include the following steps
