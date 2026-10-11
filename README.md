@@ -34,6 +34,33 @@ Compare sales across product categories and geographic regions.
 Identify top-performing products and customers.
 Explore historical sales, profit, and order trends.
 Present business performance through clear and interactive visualizations.
+Evaluate the performance of different product categories and sub-categories.
+
+---
+### Dataset Description
+This dataset contains retail sales transaction data for a superstore, covering customer orders, product categories, shipping details, geographical locations, and financial performance. It can be used to analyze sales trends, customer purchasing behavior, product performance, and profitability.
+### Dataset Features
+The dataset includes the following columns:
+Row ID: Unique identifier for each record.
+Order ID: Unique identifier for each customer order.
+Order Date: Date when the order was placed.
+Ship Date: Date when the order was shipped.
+Ship Mode: Shipping method used, such as Standard Class, Second Class, First Class, and Same Day.
+Customer ID: Unique identifier for each customer.
+Customer Name: Name of the customer.
+Segment: Customer segment, such as Consumer, Corporate, and Home Office.
+City: City where the customer is located.
+State: State or province associated with the order.
+Country: Country where the order was placed.
+Region: Geographical sales region.
+Product ID: Unique identifier for each product.
+Category: Main product category, such as Furniture, Office Supplies, and Technology.
+Sub-Category: More specific classification of a product.
+Product Name: Name of the product purchased.
+Sales: Revenue generated from the sale.
+Quantity: Number of units sold.
+Discount: Discount applied to the transaction.
+Profit: Profit or loss generated from the sale.
 
 ---
 
@@ -75,6 +102,8 @@ Year-based filtering
 Category and geographic comparisons
 Customer and product performance analysis
 ---
+
+### Dashboard Screenshots
 ### Conclusion
 EcomLens demonstrates how retail transaction data can be organized into a business intelligence dashboard for monitoring performance and exploring sales trends.
 The project combines KPI reporting, product and customer analysis, geographic comparisons, and historical trends to support clearer business understanding.
