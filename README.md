@@ -104,6 +104,7 @@ Customer and product performance analysis
 ---
 
 ### Dashboard Screenshots
+![Dmart Sales Dashboard](Dmart-Dashboard.png)
 ### Conclusion
 EcomLens demonstrates how retail transaction data can be organized into a business intelligence dashboard for monitoring performance and exploring sales trends.
 The project combines KPI reporting, product and customer analysis, geographic comparisons, and historical trends to support clearer business understanding.
