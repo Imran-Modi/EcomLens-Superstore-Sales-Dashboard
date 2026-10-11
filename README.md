@@ -65,7 +65,7 @@ The dataset includes the following columns:
 - Tableau Desktop
 ---
 ### Data Cleaning & Preparation
-The data preparation process should include the following steps, where applicable:
+The data preparation process should include the following steps
 - Inspect column names, data types, and missing values.
 - Identify and handle duplicate records.
 - Correct date and numeric data types.
@@ -76,20 +76,20 @@ The data preparation process should include the following steps, where applicabl
 ---
 
 ### Dashboard Features
-1. Executive Summary
+1. **Executive Summary**
 - Sales, profit, order, and customer KPIs
 - Year-over-year performance comparisons
 - Sales by product category
 - Sales by geographic region and country
 - Sales by customer segment
 - Top-customer analysis
-2. Trend Analysis
+2. **Trend Analysis**
 - Top products by sales
 - Sales trend over time
 - Profit trend over time
 - Order trend over time
 - Monthly performance comparisons
-3. Interactive Exploration
+3. **Interactive Exploration**
 - Year-based filtering
 - Category and geographic comparisons
 - Customer and product performance analysis
@@ -193,5 +193,8 @@ Automate data preparation and refresh workflows.
 Add a dedicated business insights report.
 Publish a web-accessible dashboard where supported.
 Include documented validation checks and reproducible analysis.
+
+### 👤Author
+***Imran Modi***
 
 
