@@ -174,7 +174,6 @@ Customer and product performance analysis
 ---
 
 ### Project Structure
-
 ```text
 EcomLens/
 │
@@ -189,8 +188,7 @@ EcomLens/
 │   └── Superstore.csv
 │
 └── Tableau-Dashboard.twbx
-
-
+```
 ### Conclusion
 EcomLens demonstrates how retail transaction data can be organized into a business intelligence dashboard for monitoring performance and exploring sales trends.
 The project combines KPI reporting, product and customer analysis, geographic comparisons, and historical trends to support clearer business understanding and make informed strategic decisions.
