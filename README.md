@@ -29,88 +29,84 @@ This project transforms retail sales data into an interactive visual dashboard t
 ---
 
 ### Project Objectives
-Analyze sales, profit, orders, and customer metrics.
-Compare sales across product categories and geographic regions.
-Identify top-performing products and customers.
-Explore historical sales, profit, and order trends.
-Present business performance through clear and interactive visualizations.
-Evaluate the performance of different product categories and sub-categories.
+- Analyze sales, profit, orders, and customer metrics.
+- Compare sales across product categories and geographic regions.
+- Identify top-performing products and customers.
+- Explore historical sales, profit, and order trends.
+- Present business performance through clear and interactive visualizations.
+- Evaluate the performance of different product categories and sub-categories.
 
 ---
 ### Dataset Description
 This dataset contains retail sales transaction data for a superstore, covering customer orders, product categories, shipping details, geographical locations, and financial performance. It can be used to analyze sales trends, customer purchasing behavior, product performance, and profitability.
 ### Dataset Features
 The dataset includes the following columns:
-Row ID: Unique identifier for each record.
-Order ID: Unique identifier for each customer order.
-Order Date: Date when the order was placed.
-Ship Date: Date when the order was shipped.
-Ship Mode: Shipping method used, such as Standard Class, Second Class, First Class, and Same Day.
-Customer ID: Unique identifier for each customer.
-Customer Name: Name of the customer.
-Segment: Customer segment, such as Consumer, Corporate, and Home Office.
-City: City where the customer is located.
-State: State or province associated with the order.
-Country: Country where the order was placed.
-Region: Geographical sales region.
-Product ID: Unique identifier for each product.
-Category: Main product category, such as Furniture, Office Supplies, and Technology.
-Sub-Category: More specific classification of a product.
-Product Name: Name of the product purchased.
-Sales: Revenue generated from the sale.
-Quantity: Number of units sold.
-Discount: Discount applied to the transaction.
-Profit: Profit or loss generated from the sale.
-
+- Row ID: Unique identifier for each record.
+- Order ID: Unique identifier for each customer order.
+- Order Date: Date when the order was placed.
+- Ship Date: Date when the order was shipped.
+- Ship Mode: Shipping method used, such as Standard Class, Second Class, First Class, and Same Day.
+- Customer ID: Unique identifier for each customer.
+- Customer Name: Name of the customer.
+- Segment: Customer segment, such as Consumer, Corporate, and Home Office.
+- City: City where the customer is located.
+- State: State or province associated with the order.
+- Country: Country where the order was placed.
+- Region: Geographical sales region.
+- Product ID: Unique identifier for each product.
+- Category: Main product category, such as Furniture, Office Supplies, and Technology.
+- Sub-Category: More specific classification of a product.
+- Product Name: Name of the product purchased.
+- Sales: Revenue generated from the sale.
+- Quantity: Number of units sold.
+- Discount: Discount applied to the transaction.
+- Profit: Profit or loss generated from the sale.
 ---
 
 ### Tools & Technologies
-List only the tools used in the completed project.
-Microsoft Excel — data inspection and preparation, if used
-Power BI, Tableau, or Excel — dashboard development (specify the actual tool)
-
+- Tableau Desktop
 ---
 
 ### Data Cleaning & Preparation
 The data preparation process should include the following steps, where applicable:
-Inspect column names, data types, and missing values.
-Identify and handle duplicate records.
-Correct date and numeric data types.
-Validate sales, profit, quantity, and category values.
-Verify calculations and year-over-year comparisons.
-Prepare and save the cleaned dataset.
-Validate the prepared data against the dashboard metrics.
+- Inspect column names, data types, and missing values.
+- Identify and handle duplicate records.
+- Correct date and numeric data types.
+- Validate sales, profit, quantity, and category values.
+- Verify calculations and year-over-year comparisons.
+- Prepare and save the cleaned dataset.
+- Validate the prepared data against the dashboard metrics.
 
 ---
-
 ### Dashboard Features
 1. Executive Summary
-Sales, profit, order, and customer KPIs
-Year-over-year performance comparisons
-Sales by product category
-Sales by geographic region and country
-Sales by customer segment
-Top-customer analysis
+- Sales, profit, order, and customer KPIs
+- Year-over-year performance comparisons
+- Sales by product category
+- Sales by geographic region and country
+- Sales by customer segment
+- Top-customer analysis
 2. Trend Analysis
-Top products by sales
-Sales trend over time
-Profit trend over time
-Order trend over time
-Monthly performance comparisons
+- Top products by sales
+- Sales trend over time
+- Profit trend over time
+- Order trend over time
+- Monthly performance comparisons
 3. Interactive Exploration
-Year-based filtering
-Category and geographic comparisons
-Customer and product performance analysis
+- Year-based filtering
+- Category and geographic comparisons
+- Customer and product performance analysis
 ---
 
 ### Dashboard Screenshots
 ![Tableau EcomLens Dashboard](Tableau-Dashboard-PG-01.png)
 - **Page 1 – Business at a Glance:** Provides an overview of key KPIs, sales, profit, customer segments, and regional performance.
+  
 ![Tableau EcomLens Dashboard](Tableau-Dashboard-PG-02.png)
 - **Page 2 – Trend Analysis:** Highlights sales and profit trends, order patterns, and top-performing products over time.
+  
 ![Tableau EcomLens Dashboard](Tableau-Dashboard-PG-03.png)
 - **Page 3 – Key Findings:** Summarizes major business insights, sales seasonality, customer performance, and shipping preferences.
-
 
 ### Key Findings
 
